@@ -4,5 +4,5 @@
 <p>We are researching the difference in daily movement between the disabled people and non-disabled.</p>
 
 # Finding Ghosts
-<p>It is reported that Traccar sent GPS data irregularly. Some clients did not send  in Traccar test data.
+<p>Our researcher reported that Traccar sometimes sent GPS data irregularly. Some clients did not send  in Traccar test data.
 To catch these irregular, we are going to explorer data from our testers.</p>
